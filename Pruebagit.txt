@@ -1,1 +1,1 @@
-1) 
+1) git log --online --decorate --graph --all (Esto muestra los commits de todas las ramas y sus relaciones)
